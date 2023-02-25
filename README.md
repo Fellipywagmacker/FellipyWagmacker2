@@ -14,3 +14,5 @@
 </div>
 
 ##
+  
+![Snake animation](https://github.com/FellipyWagmacker2/FellipyWagmacker2/blob/output/gitgub-contribution-grid-snake.svg)
