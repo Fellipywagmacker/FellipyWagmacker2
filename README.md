@@ -15,4 +15,4 @@
 
 ##
   
-![Snake animation](https://github.com/FellipyWagmacker2/FellipyWagmacker2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/FellipyWagmacker2/blob/output/github-contribution-grid-snake.svg)
