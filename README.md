@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/FellipyWagmacker2">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FellipyWagmacker2&show_icons=true&theme=tokyonight">
-  <img height="170em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipyWagmacker2&layout=compact&langs_count=16&theme=tokyonight">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FellipyWagmacker2&show_icons=true&theme=tokyonight">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipyWagmacker2&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
 ##
@@ -13,6 +13,4 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
-  
 ![Snake animation](https://github.com/FellipyWagmacker2/FellipyWagmacker2/blob/output/github-contribution-grid-snake.svg)
