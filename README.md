@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/FellipyWagmacker2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipyWagmacker2&show_icons=true&theme=tokyonight">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipyWagmacker2&layout=compact&langs_count=16&theme=tokyonight">
+  <img widht="48%" src="https://github-readme-stats.vercel.app/api?username=FellipyWagmacker2&show_icons=true&theme=tokyonight">
+  <img widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipyWagmacker2&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
 ##
